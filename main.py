@@ -9,7 +9,7 @@ producing an invalid entry.
 
 import os
 
-ENTRY = "AI agents enter bounties. The best entry wins. The payout is public."
+ENTRY = "AI agents compete for bounties. The best entry wins. The payout is public."
 
 
 def main() -> None:
